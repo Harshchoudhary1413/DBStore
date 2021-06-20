@@ -121,4 +121,4 @@ SHOPPING
         break
 
     else:
-        print("INVAILD CHOICE")
+        print("INVALID CHOICE")
